@@ -1,0 +1,16 @@
+{
+        "person_name": "Andrew",
+        "person_surname": "Ivanov",
+        "person_age": 35,
+        "number_of_pets": {
+                                "pet_1": "pushok",
+                                "pet_2": "Totoshka"
+        },
+
+        "future_salary": 500
+
+
+
+
+
+}
